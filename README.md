@@ -8,4 +8,4 @@ This project is used to practice Git and GitHub collaboration workflows.
 - Submit a pull request
 
 ## New Feature
-This project can be extended with new collaboration features.
+This project can be extended with new collaboration features, such as issue tracking, pull requests, and code review.
