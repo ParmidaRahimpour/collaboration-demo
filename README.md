@@ -18,3 +18,7 @@ This project can be extended with new collaboration features, such as issue trac
 2. Create a branch for the issue.
 3. Make the required changes.
 4. Submit a pull request for review.
+
+## Project Status
+
+The project is actively being developed.
