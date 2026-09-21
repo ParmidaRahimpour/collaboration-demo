@@ -19,6 +19,13 @@ This project can be extended with new collaboration features, such as issue trac
 3. Make the required changes.
 4. Submit a pull request for review.
 
+
 ## Project Status
 
 The project is actively being developed.
+
+ 
+ ## Rebase Practice
+
+This section is used to practice Git rebase.
+
