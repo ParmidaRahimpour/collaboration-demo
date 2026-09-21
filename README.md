@@ -1,6 +1,9 @@
 # Collaboration Demo Project
 
-This project is used to practice Git and GitHub collaboration workflows and team development.
+
+This project is used to practice Git and GitHub collaboration workflows and team developmen
+This project is used to practice Git and GitHub collaboration workflows with practical examples.
+
 
 ## How to contribute
 - Open an issue
